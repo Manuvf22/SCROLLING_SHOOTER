@@ -124,7 +124,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stats: {fileID: 11400000, guid: b16c601c184b2b246924ea8348a53bf0, type: 2}
-  prefabsPowerUps: []
+  prefabsPowerUps:
+  - {fileID: 2732680239154087468, guid: 9f2e8e18c99bf3f4ea11464062bd7974, type: 3}
+  - {fileID: 1147985448927386050, guid: b3a02d480b8ad2342a30fe35ef45d779, type: 3}
+  - {fileID: 5905575260050550971, guid: ca0ff2d509866ef4c94fdd5d8393a4e1, type: 3}
+  - {fileID: 7443808329320346, guid: 65ce9c652a9d8ae4fbb8b4d955f3bf0a, type: 3}
 --- !u!54 &5471096787491940682
 Rigidbody:
   m_ObjectHideFlags: 0
